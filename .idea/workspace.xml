@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6593450-8400-452e-8324-a83ace562cd3" name="Changes" comment="intit commit">
+    <list default="true" id="f6593450-8400-452e-8324-a83ace562cd3" name="Changes" comment="testing if commit work correctly">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FibonacciCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ParallelArraySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679378995529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testing if commit work correctly">
+      <created>1679379112881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679379112881</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intit commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="intit commit" />
+    <MESSAGE value="testing if commit work correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing if commit work correctly" />
   </component>
 </project>
