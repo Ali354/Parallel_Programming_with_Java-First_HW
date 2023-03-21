@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6593450-8400-452e-8324-a83ace562cd3" name="Changes" comment="testing if commit work correctly">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FibonacciCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ParallelArraySearch.java" afterDir="false" />
+    <list default="true" id="f6593450-8400-452e-8324-a83ace562cd3" name="Changes" comment="create two classes for solve &quot;1 &amp; 3&quot; in the homework">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ForkJoinOccurrenceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GenerateRandomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OccurrenceCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ParallelOccurrenceCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FibonacciCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FibonacciParallel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ParallelArraySearch.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +42,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/ALI/Desktop/Parallel/First_HW"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679379112881</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create two classes for solve &quot;1 &amp; 3&quot; in the homework">
+      <created>1679382050464</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679382050464</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intit commit" />
     <MESSAGE value="testing if commit work correctly" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing if commit work correctly" />
+    <MESSAGE value="create two classes for solve &quot;1 &amp; 3&quot; in the homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="create two classes for solve &quot;1 &amp; 3&quot; in the homework" />
   </component>
 </project>
